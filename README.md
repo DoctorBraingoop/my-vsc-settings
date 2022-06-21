@@ -1,6 +1,6 @@
 Getting started with Visual Studio Code and/or looking for some new plugins to fit seamlessly with your workflow? Well, look no further! Below, I have included some of the most useful and recommended extensions that are completely free to install and use.
 
-<div display="inline">
+<div display="inline" align="center">
 <img alt="Dev.to" src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" />
 <img alt="Hashnode" src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" />
 </div>
