@@ -5,15 +5,6 @@ Getting started with Visual Studio Code and/or looking for some new plugins to f
 <img alt="Hashnode" src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" />
 </div>
 
-<br>
-<details>
-  <summary>Preview</summary>
-<img alt="VSC preview" src="https://cdn.cacher.io/attachments/u/3g4bnueubwgp3/N04-EA4BkAY_IUkFN5Oyr9BVaV2751MV/Screen_Shot_2022-06-21_at_2.37.13_AM.png"/>
-
-<img alt="Icons" src="https://cdn.cacher.io/attachments/u/3g4bnueubwgp3/78pgBBu3Lh93b0o9GIiGYhVdt_dhYPTh/Screen_Shot_2022-06-21_at_2.56.54_AM.png"/>
-</details>
-<br>
-
 # Font
 
 * [Fira Code](https://github.com/tonsky/FiraCode)
