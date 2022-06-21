@@ -1,6 +1,9 @@
-# VS Code Settings
+Getting started with Visual Studio Code and/or looking for some new plugins to fit seamlessly with your workflow? Well, look no further! Below, I have included some of the most useful and recommended extensions that are completely free to install and use.
 
-Getting started with Visual Studio Code or looking for...?
+<img alt="Dev.to" src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" />
+<img alt="Hashnode" src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" />
+
+<br>
 
 <details>
   <summary>Preview</summary>
@@ -15,14 +18,12 @@ Getting started with Visual Studio Code or looking for...?
 
 # Extensions
 
-See my full list of extensions [here](https://gist.github.com/DoctorBraingoop/dd07009aa34b89a637bdf23a918f1cfb)
+See my full list of extensions here: [![Read this Gist](https://img.shields.io/static/v1.svg?label=🦄%20read%20this%20&message=gist&labelColor=ff69b4&color=033450)](https://gist.github.com/DoctorBraingoop/dd07009aa34b89a637bdf23a918f1cfb)
 
 ## Themes/Color/Icons
 
 * Current theme:
   * [GitHub Dark Mode ♥️](https://marketplace.visualstudio.com/items?itemName=GitHub.github-vscode-theme)
-  * [indent-rainbow](https://marketplace.visualstudio.com/items?itemName=oderwat.indent-rainbow)
-	  * Makes indentation easier to read
 * Icons:
   * [Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme)
 
@@ -90,7 +91,9 @@ See my full list of extensions [here](https://gist.github.com/DoctorBraingoop/dd
   * Change the font size with keyboard shortcuts.
 * [WakaTime](https://marketplace.visualstudio.com/items?itemName=WakaTime.vscode-wakatime)
 	* Metrics, insights, and time tracking automatically generated from your programming activity.
-
+* [indent-rainbow](https://marketplace.visualstudio.com/items?itemName=oderwat.indent-rainbow)
+	* Makes indentation easier to read
+  
 # Settings
 
 ```json
