@@ -39,12 +39,18 @@ Getting started with Visual Studio Code and/or looking for some new plugins to f
 - [Error Lens](https://marketplace.visualstudio.com/items?itemName=usernamehw.errorlens)
   - Error Lens turbo-charges language diagnostic features
 - [ESDoc MDN](https://marketplace.visualstudio.com/items?itemName=samundrak.esdoc-mdn)
-  - This extension lets you quickly bring up helpful MDN documentation in the editor by typing `//mdn [object.property]` for example.
+  - This extension lets you quickly bring up helpful MDN documentation in the editor by typing `//mdn [object.property];` for example.
 - [Live Preview](https://marketplace.visualstudio.com/items?itemName=ms-vscode.live-server)
   - Hosts a local server in your workspace for you to preview your webpages on in VSC!
 - [HTML CSS Support](https://marketplace.visualstudio.com/items?itemName=ecmel.vscode-html-css)
   - HTML `id` and `class` attribute completion for Visual Studio Code.
-
+- [JavaScript (ES6) code snippets](https://marketplace.visualstudio.com/items?itemName=xabikos.JavaScriptSnippets)
+	- Code snippets for JavaScript in ES6 syntax (ex: clg + tab -> console.log())
+- [Todo Tree](https://marketplace.visualstudio.com/items?itemName=Gruntfuggly.todo-tree)
+	- Show TODO, FIXME, etc. comment tags in a tree view	  
+- [Magick Image Reader](https://marketplace.visualstudio.com/items?itemName=elypia.magick-image-reader)
+	- Uses ImageMagick to add read-only views of over 100 image formats in Visual Studio Code.
+	  
 ### GitHub
 
 - [Gist](https://marketplace.visualstudio.com/items?itemName=kenhowardpdx.vscode-gist)
@@ -87,7 +93,12 @@ Getting started with Visual Studio Code and/or looking for some new plugins to f
   - Metrics, insights, and time tracking automatically generated from your programming activity.
 - [indent-rainbow](https://marketplace.visualstudio.com/items?itemName=oderwat.indent-rainbow)
   - Makes indentation easier to read
-
+- [Discord Rich Presence](https://marketplace.visualstudio.com/items?itemName=LeonardSSH.vscord)
+	- Show what you're working on in Discord!
+- [Lorem ipsum](https://marketplace.visualstudio.com/items?itemName=Tyriar.lorem-ipsum)
+	- A tiny VS Code extension made up of a few commands that generate and insert lorem ipsum text into a text file.
+- [vscode-faker](https://marketplace.visualstudio.com/items?itemName=deerawan.vscode-faker)
+	- Generate fake data for name, address, lorem ipsum, commerce and much more
 <br>
 
 See my full list of extensions [here](https://github.com/DoctorBraingoop/my-vsc-setup/blob/master/.vscode/extensions.json)
