@@ -1,50 +1,50 @@
 // Place your key bindings in this file to override the defaults
 [
-    // ~/Library/Application Support/Code/User/keybindings.json
-    
-    {
-        "key": "cmd+b",
-        "command": "-markdown.extension.editing.toggleBold",
-        "when": "editorTextFocus && !editorReadonly && editorLangId == 'markdown'"
-    },
-    {
-        "key": "ctrl+cmd+-",
-        "command": "fontshortcuts.decreaseEditorFontSize",
-        "when": "editorFocus"
-    },
-    {
-        "key": "cmd+-",
-        "command": "-fontshortcuts.decreaseEditorFontSize",
-        "when": "editorFocus"
-    },
-    {
-        "key": "ctrl+cmd+-",
-        "command": "fontshortcuts.decreaseTerminalFontSize",
-        "when": "terminalFocus"
-    },
-    {
-        "key": "cmd+-",
-        "command": "-fontshortcuts.decreaseTerminalFontSize",
-        "when": "terminalFocus"
-    },
-    {
-        "key": "ctrl+cmd+=",
-        "command": "fontshortcuts.increaseEditorFontSize",
-        "when": "editorFocus"
-    },
-    {
-        "key": "cmd+=",
-        "command": "-fontshortcuts.increaseEditorFontSize",
-        "when": "editorFocus"
-    },
-    {
-        "key": "ctrl+cmd+=",
-        "command": "fontshortcuts.increaseTerminalFontSize",
-        "when": "terminalFocus"
-    },
-    {
-        "key": "cmd+=",
-        "command": "-fontshortcuts.increaseTerminalFontSize",
-        "when": "terminalFocus"
-    }
+  // ~/Library/Application Support/Code/User/keybindings.json
+
+  {
+    "key": "cmd+b",
+    "command": "-markdown.extension.editing.toggleBold",
+    "when": "editorTextFocus && !editorReadonly && editorLangId == 'markdown'"
+  },
+  {
+    "key": "ctrl+cmd+-",
+    "command": "fontshortcuts.decreaseEditorFontSize",
+    "when": "editorFocus"
+  },
+  {
+    "key": "cmd+-",
+    "command": "-fontshortcuts.decreaseEditorFontSize",
+    "when": "editorFocus"
+  },
+  {
+    "key": "ctrl+cmd+-",
+    "command": "fontshortcuts.decreaseTerminalFontSize",
+    "when": "terminalFocus"
+  },
+  {
+    "key": "cmd+-",
+    "command": "-fontshortcuts.decreaseTerminalFontSize",
+    "when": "terminalFocus"
+  },
+  {
+    "key": "ctrl+cmd+=",
+    "command": "fontshortcuts.increaseEditorFontSize",
+    "when": "editorFocus"
+  },
+  {
+    "key": "cmd+=",
+    "command": "-fontshortcuts.increaseEditorFontSize",
+    "when": "editorFocus"
+  },
+  {
+    "key": "ctrl+cmd+=",
+    "command": "fontshortcuts.increaseTerminalFontSize",
+    "when": "terminalFocus"
+  },
+  {
+    "key": "cmd+=",
+    "command": "-fontshortcuts.increaseTerminalFontSize",
+    "when": "terminalFocus"
+  }
 ]
